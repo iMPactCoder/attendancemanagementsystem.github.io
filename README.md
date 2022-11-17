@@ -1,14 +1,4 @@
 Attendance-System
 =================
 
-The project is meant to create an advanced attendance taking system to help teachers, 
-students and college administration by automating the entire process. It is designed keeping 
-scalability and code- reusability in mind, which means that the same project can be altered 
-by changing few variables to get desired results. Furthermore, there’s scope of adding more 
-functionality without disturbing any of the existing one. This is made possible by using 
-Object Oriented Programming, a Modular for designing web service, and following large 
-parts of MVC model. This allows us to extend the project to mobile applications and other environments.
-
-Video Demo : 
-
-https://www.projectworlds.in/online-attendance
+Attendance Management System is a web application developed for daily student attendance in colleges. If facilitates to access the attendance information of a particular student in a particular class. The attendance will be marked by the teachers for a particular class. Each teacher will be given a separate user name and password. This system will also help in evaluating attendance eligibility criteria of a student. Automatic reports on student’s attendance will be generated at the end of session or in between of the session.
